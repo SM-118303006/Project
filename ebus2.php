@@ -49,7 +49,7 @@ $_SESSION['txtTotal'] = $totalValue2;
                         <td><input type="text" id="txtNum" name="txtNum" value="" /></td>
                     </tr>
                     <tr>
-                        <td>Password</td>
+                        <td>PIN</td>
                         <td><input type="text" id="txtPassword" name="txtPassword" value="" /></td>
                     </tr>
                     <tr>
